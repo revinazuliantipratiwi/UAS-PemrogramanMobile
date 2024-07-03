@@ -1,6 +1,9 @@
 # aplikasi_barang
 
-A new Flutter project.
+Pengerjaan UAS: 1 Orang (Perorang)
+Fitur yang dikerjakan : - Stock
+                        - Produk
+                        - Sales 
 
 ## Getting Started
 
